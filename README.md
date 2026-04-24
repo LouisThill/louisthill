@@ -31,18 +31,12 @@ More broadly, I’m interested in the variability that makes us individuals — 
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Main Languages:</h3>
 <p align="left">
   <a href="https://www.matlab.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-</p>
-  
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
