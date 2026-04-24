@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis Thill</h1>
-<h3 align="center">A passionate researcher and psychotherapist in training</h3>
+<h3 align="center">A Passionate Researcher in Cognitive Neuroscience & Psychotherapist in Training</h3>
 
 - 🔍 My current research focuses on [cue effects in human addiction](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1)
 
