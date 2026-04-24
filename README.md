@@ -17,6 +17,10 @@ More broadly, I’m interested in the variability that makes us individuals — 
 <p align="left">
 <a href="https://linkedin.com/in/louis-thill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis-thill" height="30" width="40" /></a>
 </p>
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=2SN65_cAAAAJ&hl=de" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.matlab.com" target="_blank" rel="noreferrer">
