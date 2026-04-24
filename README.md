@@ -5,7 +5,7 @@ I'am a PhD student at the [Systems Neuroscience Lab](https://tu-dresden.de/berei
 
 - 🔍 My current project: [Pavlovian-to-instrumental Transfer in Alcohol Use Disorder and Smoking](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1)
 
-- 🌱 My Funding: [IRTG 2773: Risks and Pathomechanisms of Affective Disorders](https://transcampus.eu/project/mental-health/irtg2773/)
+- 🌱 My Funding: [IRTG 2773 "Risks and Pathomechanisms of Affective Disorders"](https://transcampus.eu/project/mental-health/irtg2773/)
 
 - 🔗 Also affiliated with [King's College London (joint PhD)](https://www.kcl.ac.uk/) and the [TRR265 "Losing and regaining control over drug intake"](https://www.trr265.org/en/sfb-trr-265)
 
