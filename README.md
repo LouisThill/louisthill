@@ -24,7 +24,7 @@ Alongside my academic journey, I am also undergoing training in [Cognitive-Behav
 
 - 📫 Best way to reach me **louis.thill@tu-dresden.de**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Let's connect</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/louis-thill" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
