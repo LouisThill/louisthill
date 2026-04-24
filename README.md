@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Louis Thill</h1>
-<h3 align="center">A Cognitive Neuroscience Researcher & Psychotherapist in Training</h3>
+<h3 align="center">A Cognitive Neuroscience Researcher
+  & 
+  Psychotherapist in Training</h3>
 
 <p align="center">
   <img src="https://github.com/LouisThill.png"
