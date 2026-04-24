@@ -39,7 +39,8 @@ Alongside my academic journey, I am also undergoing training in [Cognitive-Behav
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
 </p>
-<h3 align="left">Main Languages:</h3>
+
+<h3 align="left">💻 Main Languages:</h3>
 <p align="left">
   <a href="https://www.matlab.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
