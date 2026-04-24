@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Louis Thill</h1>
-<h3 align="center">A Cognitive Neuroscience Researcher & Psychotherapist in Training...</h3>
+<h3 align="center">A Cognitive Neuroscience Researcher & Psychotherapist in Training</h3>
 
-...driven by a curiosity about why we sometimes act against our own intentions. My work focuses on how environmental cues shape behavior, particularly in the context of cognitive control, addiction, and mental health. 
-
-I combine experimental tasks, computational approaches, and neuroimaging to better understand the mechanisms underlying these processes. A central motivation in my work is to contribute to translational research that bridges basic cognitive neuroscience with clinical applications, with the long-term goal of improving how we understand, prevent, and support patients affected by maladaptive behavior and mental health conditions.
-
-More broadly, I’m interested in the variability that makes us individuals — in both vulnerability and resilience, and what this means for behavior across contexts.
+I'am a PhD student at the [Systems Neuroscience Lab](https://tu-dresden.de/bereichsuebergreifendes/nic/research/grps_med/sesyn) at [TU Dresden](https://tu-dresden.de/) who focuses on how environmental cues may shape behavior and how this relates to substance use and cognitive control. My work is driven by a deep curiosity about how we adapt cognitively and behaviorally to different context, and how this flexibility -- or at times inflexibility -- can lead us to act against our own intentions. A central motivation of my work is to contribute to translational research that bridges basic cognitive neuroscience with clinical applications, with the long-term goal of improving how we understand, prevent, and support individuals affected by maladaptive behavior and mental health conditions. I am also pursuing a psychotherapy training in [Cognitive-Behavioral Therapy](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral) at [IAP Dresden](https://www.iap-dresden.de/). 
 
 - 🔍 My current project: [Pavlovian-to-instrumental Transfer in Alcohol Use Disorder and Smoking](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1)
 
-- 🧑‍⚕️My Main Approach to Psychotherapy: [Cognitive-Behavioral Therapy](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral)
+- 🌱 My Funding: [IRTG 2773: Risks and Pathomechanisms of Affective Disorders](https://transcampus.eu/project/mental-health/irtg2773/)
+
+- 🔗 Also affiliated with [King's College London (joint PhD)](https://www.kcl.ac.uk/) and the [TRR265 "Losing and regaining control over drug intake"](https://www.trr265.org/en/sfb-trr-265)
 
 - 📫 Best way to reach me **louis.thill@tu-dresden.de**
 
