@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Louis Thill</h1>
 <h3 align="center">A Cognitive Neuroscience Researcher & Psychotherapist in Training</h3>
 
+<img src="https://github.com/LouisThill.png" width="150" style="border-radius:50%;" />
+
 I'am a PhD student at the [Systems Neuroscience Lab](https://tu-dresden.de/bereichsuebergreifendes/nic/research/grps_med/sesyn) at [TU Dresden](https://tu-dresden.de/) who focuses on how environmental cues may shape behavior and how this relates to substance use and cognitive control. My work is driven by a deep curiosity about how we adapt cognitively and behaviorally to different context, and how this flexibility -- or at times inflexibility -- can lead us to act against our own intentions. A central motivation of my work is to contribute to translational research that bridges basic cognitive neuroscience with clinical applications, with the long-term goal of improving how we understand, prevent, and support individuals affected by maladaptive behavior and mental health conditions. I am also pursuing a psychotherapy training in [Cognitive-Behavioral Therapy](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral) at [IAP Dresden](https://www.iap-dresden.de/). 
 
 - 🔍 My current project: [Pavlovian-to-instrumental Transfer in Alcohol Use Disorder and Smoking](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1)
