@@ -15,31 +15,31 @@ More broadly, I’m interested in the variability that makes us individuals — 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
+  <a href="www.linkedin.com/in/louis-thill" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://bsky.app" target="_blank" rel="noreferrer">
+  <a href="https://bsky.app/profile/louisthill.bsky.social" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
   </a>
 
-  <a href="https://orcid.org" target="_blank" rel="noreferrer">
+  <a href="https://orcid.org/0009-0005-2635-4012" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
 
-  <a href="https://scholar.google.com" target="_blank" rel="noreferrer">
+  <a href="https://scholar.google.com/citations?user=2SN65_cAAAAJ&hl=de" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.matlab.com" target="_blank" rel="noreferrer">
+<p align="left">
+  <a href="https://www.matlab.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
   </a>
-
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   </a>
-
+</p>
   
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
