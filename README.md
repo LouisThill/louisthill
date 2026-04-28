@@ -10,17 +10,19 @@
        style="border-radius:50%; object-fit:cover;" />
 </p>
 
-I'm currently pursuing a PhD in the [Systems Neuroscience Lab](https://tu-dresden.de/bereichsuebergreifendes/nic/research/grps_med/sesyn) at [TU Dresden](https://tu-dresden.de/), where I focus on environmental cues and their effects on the human brain and behavior. Specifically, I am interested in how these effects relate to substance use and cognitive control. 
+I'm currently pursuing a PhD in the [Systems Neuroscience Lab](https://tu-dresden.de/bereichsuebergreifendes/nic/research/grps_med/sesyn) at [TU Dresden](https://tu-dresden.de/), where I study how environmental cues shape human brain function and behavior, particularly in relation to substance use and cognitive control. 
 
-My work is driven by a deep curiosity about how we adapt cognitively and behaviorally to changing contexts, and how this flexibility -- or at times inflexibility -- can lead us to act against our own intentions. A central motivation of my work is to contribute to translational research that bridges basic cognitive neuroscience with clinical applications, with the long-term goal of improving how we understand, prevent, and support individuals affected by maladaptive behavior and mental health conditions. 
+My work is driven by a deep curiosity about how we adapt cognitively and behaviorally to changing contexts, and how this flexibility -- or at times inflexibility -- can lead us to act against our own intentions. I am especially interested in contributing to translational research that bridges basic cognitive neuroscience with clinical applications, with the long-term goal of improving how we understand, prevent, and support individuals affected by maladaptive behavior and mental health conditions. 
 
-Alongside my academic journey, I am also undergoing training in [Cognitive-Behavioral Therapy](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral) at [IAP Dresden](https://www.iap-dresden.de/), further expanding my expertise in the intersection of research and clinical practice.
+Alongside my academic journey, I am also undergoing training in [Cognitive-Behavioral Therapy (CBT)](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral) at [IAP Dresden](https://www.iap-dresden.de/), further expanding my expertise in the intersection of research and clinical practice.
 
 - 🔍 My current project: [Pavlovian-to-instrumental Transfer in Alcohol Use Disorder and Smoking](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1)
 
 - 🌱 My Funding: [IRTG 2773 "Risks and Pathomechanisms of Affective Disorders"](https://transcampus.eu/project/mental-health/irtg2773/)
 
-- 🔗 Also affiliated with [King's College London (joint PhD)](https://www.kcl.ac.uk/) and the [TRR265 "Losing and regaining control over drug intake"](https://www.trr265.org/en/sfb-trr-265)
+- 🔗 Other affiliations / associations:
+    - [King's College London (joint PhD)](https://www.kcl.ac.uk/)
+    - [TRR265 "Losing and regaining control over drug intake"](https://www.trr265.org/en/sfb-trr-265)
 
 - 📫 Best way to reach me **louis.thill@tu-dresden.de**
 
