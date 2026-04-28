@@ -39,7 +39,8 @@ Alongside my academic journey, I am also undergoing training in [Cognitive-Behav
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
   <a href="[https://your-university-profile-link](https://tu-dresden.de/bereichsuebergreifendes/nic/research/grps_med/sesyn/people/louis-thill?set_language=de)" target="_blank">
-  <img src="https://img.shields.io/badge/University%20Profile-005F9E?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TU%20Dresden%20Profile-005F9E?style=for-the-badge"/>
+</a>
 </a>
 </p>
 
